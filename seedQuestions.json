@@ -1,0 +1,6 @@
+[
+    { "category": "Sorting", "question": "What is sorting?", "answer": "Sorting is the process of arranging items in a specified order, typically in ascending or descending order." },
+    { "category": "Sorting", "question": "What is the difference between quicksort and mergesort?", "answer": "Quicksort is a divide-and-conquer algorithm that selects a pivot and partitions the array, while mergesort divides the array into halves and merges them back." },
+    { "category": "Sorting", "question": "What is the time complexity of bubble sort?", "answer": "The average and worst-case time complexity of bubble sort is O(n^2), where n is the number of items being sorted." },
+    { "category": "Sorting", "question": "What is the best case time complexity for insertion sort?", "answer": "The best case time complexity for insertion sort is O(n), occurring when the array is already sorted." }
+]
